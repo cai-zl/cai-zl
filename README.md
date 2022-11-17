@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working Golang
+- 🌱 I’m currently learning Golang
+- 📫 How to reach me: 740662047@qq.com
