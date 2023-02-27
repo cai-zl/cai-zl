@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working Java Web
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: 740662047@qq.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cai-zl&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
