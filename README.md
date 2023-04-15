@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working Java Web
 - 🌱 I’m currently learning Vue3
-- ✨ I need a job
+- ✨ I need a job(China's Hubei Wuhan)
 - 🤔 My technology stack: 
   - Java: Spring-Boot
   - Go: Gin、Go-Zero、Gorm、Grpc
