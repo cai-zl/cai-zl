@@ -4,8 +4,8 @@
 - 🌱 I’m still continuing to learn technology
 - 🤔 My technology stack: 
   - Java: Spring
-  - Go: Gin、Go-Zero、Gorm、Grpc
-  - TypeScript: Vue、Element、Electorn
+  - Go: Gin, Go-Zero, Gorm, Grpc
+  - TypeScript: Vue, Element, Electorn
   - Shell ...
 - 📫 How to reach me: 740662047@qq.com
 
